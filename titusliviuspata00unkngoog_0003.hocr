@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./titusliviuspata00unkngoog_0003.png"; bbox 0 0 3000 4717; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 24 3000 966">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 24 3000 966">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 24 3000 966; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 24 3000 966; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1984 4396 2584 4515">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1984 4396 2584 4515">
+     <span class='ocr_line' id='line_1_2' title="bbox 1984 4396 2584 4515; baseline 0 -36"><span class='ocrx_word' id='word_1_2' title='bbox 1984 4445 2155 4489; x_wconf 62' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_3' title='bbox 2174 4445 2218 4489; x_wconf 68' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_4' title='bbox 2233 4396 2584 4515; x_wconf 71' lang='lat' dir='ltr'>GOOglC</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 66 4376 602 4686">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 66 4376 602 4686">
+     <span class='ocr_line' id='line_1_3' title="bbox 66 4376 602 4686; baseline 0 31"><span class='ocrx_word' id='word_1_5' title='bbox 66 4376 602 4686; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
